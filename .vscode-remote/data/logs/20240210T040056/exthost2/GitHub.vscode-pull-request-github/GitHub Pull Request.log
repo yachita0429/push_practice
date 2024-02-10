@@ -1,0 +1,59 @@
+2024-02-10 04:12:21.442 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-02-10 04:12:21.442 [info] Activation> Extension version: 0.78.1
+2024-02-10 04:12:25.192 [info] Looking for git repository
+2024-02-10 04:12:25.192 [info] Found 0 repositories during activation
+2024-02-10 04:12:25.192 [info] Git repository found, initializing review manager and pr tree view.
+2024-02-10 04:12:25.197 [info] Registering git provider
+2024-02-10 04:12:25.197 [info] Review+0> Validate state in progress
+2024-02-10 04:12:25.197 [info] Review+0> Validating state...
+2024-02-10 04:12:25.198 [info] Review+1> Validate state in progress
+2024-02-10 04:12:25.198 [info] Review+1> Validating state...
+2024-02-10 04:12:25.198 [info] Review+2> Validate state in progress
+2024-02-10 04:12:25.198 [info] Review+2> Validating state...
+2024-02-10 04:12:25.422 [info] Found GitHub remote for folder /home/vscode/environment
+2024-02-10 04:12:25.422 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-02-10 04:12:25.422 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-02-10 04:12:25.609 [info] Repo state for file:///home/vscode/environment changed.
+2024-02-10 04:12:25.609 [info] Repo file:///home/vscode/environment has already been setup.
+2024-02-10 04:12:26.041 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:12:26.335 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-02-10 04:12:26.474 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:12:26.507 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:12:26.559 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-02-10 04:12:26.586 [info] Review+2> No matching pull request metadata found locally for current branch master
+2024-02-10 04:12:26.670 [info] Using globalState assignableUsers for 1.
+2024-02-10 04:12:26.782 [info] Using globalState assignableUsers for 1.
+2024-02-10 04:12:26.827 [info] Using globalState assignableUsers for 1.
+2024-02-10 04:12:27.144 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-02-10 04:12:27.357 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:12:27.383 [info] Review+2> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:14:50.128 [info] Repository file:///home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction has been opened
+2024-02-10 04:14:50.128 [info] Review+3> Validate state in progress
+2024-02-10 04:14:50.128 [info] Review+3> Validating state...
+2024-02-10 04:14:50.129 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:14:50.129 [info] No GitHub remotes found for folder /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+2024-02-10 04:14:50.346 [info] Review+3> Queuing additional validate state
+2024-02-10 04:14:50.346 [info] Repo state for file:///home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction changed.
+2024-02-10 04:14:50.346 [info] Repo file:///home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction has already been setup.
+2024-02-10 04:14:50.658 [info] Review+3> Validating state...
+2024-02-10 04:14:50.658 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:14:50.658 [info] No GitHub remotes found for folder /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+2024-02-10 04:14:50.777 [info] Review+3> No matching pull request metadata found locally for current branch master
+2024-02-10 04:14:50.891 [info] Review+3> Failed to get upstream for branch master from git config.
+2024-02-10 04:14:50.891 [info] Review+3> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:20:19.266 [info] Repository file:///home/vscode/progate_path/self_introduction_commit/self_introduction has been opened
+2024-02-10 04:20:19.266 [info] Review+4> Validate state in progress
+2024-02-10 04:20:19.266 [info] Review+4> Validating state...
+2024-02-10 04:20:19.268 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:20:19.268 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:20:19.385 [info] Review+4> Queuing additional validate state
+2024-02-10 04:20:19.385 [info] Repo state for file:///home/vscode/progate_path/self_introduction_commit/self_introduction changed.
+2024-02-10 04:20:19.385 [info] Repo file:///home/vscode/progate_path/self_introduction_commit/self_introduction has already been setup.
+2024-02-10 04:22:19.265 [error] Review+4> Timeout occurred while validating state.
+2024-02-10 04:22:19.265 [info] Review+4> Validating state...
+2024-02-10 04:22:19.265 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:22:19.266 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:22:19.322 [info] Review+4> No matching pull request metadata found locally for current branch main
+2024-02-10 04:22:19.325 [info] Review+4> Failed to get upstream for branch main from git config.
+2024-02-10 04:22:19.325 [info] Review+4> No matching pull request metadata found on GitHub for current branch main
+2024-02-10 04:24:19.265 [error] Review+4> Timeout occurred while validating state.

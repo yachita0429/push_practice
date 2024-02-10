@@ -1,0 +1,50 @@
+2024-02-10 04:01:57.504 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-02-10 04:01:57.504 [info] Activation> Extension version: 0.78.1
+2024-02-10 04:02:04.326 [info] Looking for git repository
+2024-02-10 04:02:04.326 [info] Found 0 repositories during activation
+2024-02-10 04:02:04.326 [info] Git repository found, initializing review manager and pr tree view.
+2024-02-10 04:02:04.355 [info] Registering git provider
+2024-02-10 04:02:08.976 [info] Review+1> Validate state in progress
+2024-02-10 04:02:08.976 [info] Review+1> Validating state...
+2024-02-10 04:02:08.976 [info] Cannot updates repositories as git is uninitialized
+2024-02-10 04:02:08.976 [info] Repo state for file:///home/vscode/.nodenv changed.
+2024-02-10 04:02:08.976 [info] Repo file:///home/vscode/.nodenv has already been setup.
+2024-02-10 04:02:10.481 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-02-10 04:02:10.484 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:02:25.734 [info] Repository file:///home/vscode/environment has been opened
+2024-02-10 04:02:25.740 [info] Git initialization state changed: state=initialized
+2024-02-10 04:02:25.740 [info] Review+0> Validate state in progress
+2024-02-10 04:02:25.741 [info] Review+0> Validating state...
+2024-02-10 04:02:25.741 [info] Review+1> Queuing additional validate state
+2024-02-10 04:02:25.741 [info] Review+2> Validate state in progress
+2024-02-10 04:02:25.742 [info] Review+2> Validating state...
+2024-02-10 04:02:25.742 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:02:25.743 [info] No GitHub remotes found for folder /home/vscode/environment
+2024-02-10 04:02:25.776 [info] Review+0> Queuing additional validate state
+2024-02-10 04:02:25.776 [info] Repo state for file:///home/vscode/.oh-my-zsh changed.
+2024-02-10 04:02:25.776 [info] Repo file:///home/vscode/.oh-my-zsh has already been setup.
+2024-02-10 04:02:26.020 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-02-10 04:02:26.444 [info] Review+1> Validating state...
+2024-02-10 04:02:26.723 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-02-10 04:02:28.600 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:02:29.131 [info] Review+2> Validate state in progress
+2024-02-10 04:02:29.131 [info] Review+2> Validating state...
+2024-02-10 04:02:29.131 [info] Repo state for file:///home/vscode/environment changed.
+2024-02-10 04:02:29.131 [info] Repo file:///home/vscode/environment has already been setup.
+2024-02-10 04:02:29.429 [info] Found GitHub remote for folder /home/vscode/environment
+2024-02-10 04:02:29.608 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-02-10 04:02:30.606 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:02:31.699 [info] GlobalState does not exist for assignableUsers.
+2024-02-10 04:02:32.474 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-02-10 04:02:32.936 [info] GlobalState does not exist for assignableUsers.
+2024-02-10 04:02:33.439 [info] Trying to use globalState for assignableUsers.
+2024-02-10 04:02:34.194 [info] Review+2> No matching pull request metadata found locally for current branch main
+2024-02-10 04:02:34.290 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:02:34.517 [info] GlobalState does not exist for assignableUsers.
+2024-02-10 04:02:35.202 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-02-10 04:02:35.536 [info] Review+0> Validating state...
+2024-02-10 04:02:35.619 [info] Review+2> No matching pull request metadata found on GitHub for current branch main
+2024-02-10 04:02:35.686 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-02-10 04:02:35.687 [info] Using in-memory cached assignable users.
+2024-02-10 04:02:36.993 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-02-10 04:02:38.226 [info] Review+0> No matching pull request metadata found on GitHub for current branch master

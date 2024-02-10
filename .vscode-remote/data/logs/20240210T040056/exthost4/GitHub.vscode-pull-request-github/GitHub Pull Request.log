@@ -1,0 +1,34 @@
+2024-02-10 04:15:15.488 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-02-10 04:15:15.488 [info] Activation> Extension version: 0.78.1
+2024-02-10 04:15:20.168 [info] Looking for git repository
+2024-02-10 04:15:20.168 [info] Found 0 repositories during activation
+2024-02-10 04:15:20.168 [info] Git repository found, initializing review manager and pr tree view.
+2024-02-10 04:15:20.169 [info] Registering git provider
+2024-02-10 04:19:35.546 [info] Repository file:///home/vscode/progate_path/self_introduction_commit/self_introduction has been opened
+2024-02-10 04:19:35.547 [info] Review+0> Validate state in progress
+2024-02-10 04:19:35.547 [info] Review+0> Validating state...
+2024-02-10 04:19:35.549 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:19:35.549 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:19:35.755 [info] Review+0> Queuing additional validate state
+2024-02-10 04:19:35.755 [info] Repo state for file:///home/vscode/progate_path/self_introduction_commit/self_introduction changed.
+2024-02-10 04:19:35.755 [info] Repo file:///home/vscode/progate_path/self_introduction_commit/self_introduction has already been setup.
+2024-02-10 04:19:36.182 [info] Review+0> Validating state...
+2024-02-10 04:19:36.183 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:19:36.183 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:19:36.284 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-02-10 04:19:36.288 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-02-10 04:19:36.288 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-02-10 04:20:03.396 [info] Review+0> Validate state in progress
+2024-02-10 04:20:03.396 [info] Review+0> Validating state...
+2024-02-10 04:20:03.397 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:20:03.397 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:20:03.467 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-02-10 04:20:03.470 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-02-10 04:20:03.471 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-02-10 04:24:08.656 [info] Review+0> Validate state in progress
+2024-02-10 04:24:08.656 [info] Review+0> Validating state...
+2024-02-10 04:24:08.656 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-02-10 04:24:08.656 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:24:08.727 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-02-10 04:24:08.764 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-02-10 04:24:08.765 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

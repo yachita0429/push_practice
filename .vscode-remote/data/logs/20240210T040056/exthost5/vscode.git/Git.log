@@ -1,0 +1,29 @@
+2024-02-10 04:26:15.781 [info] Log level: Info
+2024-02-10 04:26:15.782 [info] Validating found git in: "git"
+2024-02-10 04:26:15.782 [info] Using git "2.43.0" from "git"
+2024-02-10 04:26:15.782 [info] > git rev-parse --show-toplevel [2099ms]
+2024-02-10 04:26:15.782 [info] > git rev-parse --git-dir --git-common-dir [923ms]
+2024-02-10 04:26:15.782 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-10 04:26:15.825 [info] > git rev-parse --show-toplevel [110ms]
+2024-02-10 04:26:15.826 [info] > git config --get commit.template [140ms]
+2024-02-10 04:26:15.926 [info] No remotes found in the git config file.
+2024-02-10 04:26:15.937 [info] > git rev-parse --show-toplevel [54ms]
+2024-02-10 04:26:15.982 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [57ms]
+2024-02-10 04:26:16.124 [info] > git status -z -uall [101ms]
+2024-02-10 04:26:16.137 [info] > git rev-parse --show-toplevel [165ms]
+2024-02-10 04:26:16.438 [info] > git rev-parse --show-toplevel [186ms]
+2024-02-10 04:26:16.802 [info] > git check-ignore -v -z --stdin [306ms]
+2024-02-10 04:26:16.805 [info] > git config --get commit.template [491ms]
+2024-02-10 04:26:16.838 [info] No remotes found in the git config file.
+2024-02-10 04:26:16.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2024-02-10 04:26:16.935 [info] > git status -z -uall [20ms]
+2024-02-10 04:26:17.281 [info] > git show --textconv :src/favorite_food.md [106ms]
+2024-02-10 04:26:17.282 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [77ms]
+2024-02-10 04:26:17.338 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [6ms]
+2024-02-10 04:26:19.971 [info] > git config --local branch.main.github-pr-owner-number [9ms]
+2024-02-10 04:26:20.026 [info] > git config --local branch.main.remote [13ms]
+2024-02-10 04:31:19.962 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-10 04:36:20.004 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-10 04:41:20.060 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-02-10 04:46:20.151 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-02-10 04:51:20.199 [info] > git config --local branch.main.github-pr-owner-number [2ms]

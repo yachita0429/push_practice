@@ -1,0 +1,4 @@
+2024-02-10 04:49:37.069 [info] [auth] Invalid copilot token: missing token: 403 
+2024-02-10 04:49:37.071 [error] [default] Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as yachita0429."
+2024-02-10 04:49:44.257 [info] [auth] Invalid copilot token: missing token: 403 
+2024-02-10 04:49:44.258 [error] [default] Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as yachita0429."
